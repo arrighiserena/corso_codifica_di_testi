@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- l'esercizio consiste nel:
+validare il file non ben formato presente nella repository github,
+mostrare e commentare gli errori rilevati con la validazione,
+apportare le modifiche necessarie a renderlo ben formato.
+Successivamente:
+aggiungere un figlio a un elemento,
+aggiungere un fratello a un elemento.
+-->
+
+<!-- questo è il documento NON ben formato -->
+<text>
+    il primo xml con validazione
+</text>
+<text />
+
+<!-- questo è l'errore rilevato utilizzando il comando xmllint:
+xmlfirst.xml:16: parser error : Extra content at the end of the document
+<text />
+
+Il problema sembra essere l'elemento vuoto <text /> in fondo al documento: questo accade perché in questo corpo manca l'elemento radice.
+La soluzione è quindi aggiungere l'elemento radice, avente come discendenti entrambi gli elementi presenti.
+
+Il documento ben formato è quindi:
+<radice>
+    <text>
+        il primo xml con validazione
+    </text>
+    <text />
+</radice>
+-->
+
+<!--come richiesto, aggiungo un figlio a un elemento e un fratello a un elemento.
+<radice>
+    <text>
+        il primo xml con validazione
+        <figlioditext />
+    </text>
+    <fratelloditext />
+    <text />
+</radice>
+-->
