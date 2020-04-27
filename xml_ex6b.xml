@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--risoluzione del problema di overlapping presentato nell'esercizio 6 tramite l'uso di un elemento vuoto-->
+
+<text>
+    <titolo>Delitto e castigo</titolo>
+    <intestazione> Intestazione </intestazione>
+
+    <pagina n="5"/>
+        <p>Per strada c'era un caldo soffocante, afoso, e c'era gente dappertutto [...] </p>
+        <p>L'intollerabile lezzo degli spacci di vino, che in quella zona della città erano particolarmente numerosi [...] </p>
+        <p>Un senso di profondissimo disgusto passò per un istante sui lineamenti delicati del giovane. </p>
+        <p>Va detto che egli era straordinariamente bello [...] </p>
+        <p>Ma in breve il giovane cadde in una sorta di profonda astrazione [...] </p>
+        <p>Solo di tanto in tanto borbottava qualcosa [...] </p>
+        <p>In quello  stesso istante era ben consapevole [...] </p>
+        <p>Era vestito così miseramente [...] </p>
+        <p>[...] in quelle vie e nei vicoli centrali di<pagina n="6"/> Pietroburgo [...] </p>
+</text>
