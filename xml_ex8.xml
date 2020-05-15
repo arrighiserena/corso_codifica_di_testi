@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Disaggregazione spiritismo doppie personalità: versione elettronica</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>Serena Arrighi</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <date>15/05/2020</date>
+            </publicationStmt>
+            <sourceDesc> 
+                <bibl>
+                    <title>Disaggregazione spiritismo doppie personalità</title>
+                    <author>Pierre janet</author>
+                    <publisher>Sensibili alle foglie</publisher>
+                    <date>1996</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Codifica di paragrafi, sezioni, citazioni, discorsi diretti, liste. Nessuna normalizzazione.</p>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+            <textDesc>
+                <channel mode="w"/>
+                <constitution type="single"/>
+                <derivation type="original"/>
+                <domain type="psychology"/>
+                <factuality type="real"/>
+                <interaction type="none"/>
+                <preparedness type="prepared"/>
+                <purpose type="inform"/>
+            </textDesc>
+        </profileDesc>
+        <!--
+        <revisionDesc>
+        </revisionDesc> -->
+    </teiHeader>
+
+    <text xml:id="testo_ex8">
+        <front>
+        </front>
+        <body>
+            <div>
+                <p>
+                    Il fenomeno che si produce nella nostra coscienza a seguito di un’impressione fatta sui nostri sensi e che si traduce nell’espressione:
+                    <q>“Vedo una luce. Sento una puntura”</q> è di per sé già molto complesso:esso non è infatti costituito soltanto dalla semplice sensazione grezza, visiva o tattile; ma contiene anche un’operazione di sintesi attiva e presente in ciascun momento che riallaccia questa sensazione al gruppo di immagini e di giudizi anteriori che costituiscono l’io o la personalità.
+                    Il fatto, semplice in apparenza, che si traduce in queste parole: <q>“Vedo, sento”</q>, anche senza parlare delle idee di esteriorità, di distanza, di localizzazione, è già una percezione complessa.
+                </p>
+                <p>
+                    Abbiamo insistito su questa idea studiando gli atti automatici nella catalessia; 
+                    abbiamo assunto l’opinione di Maine de Biran, che distingue nello spirito umano una vita puramente affettiva, di sole sensazioni, fenomeni coscienti ma non attribuiti ad una personalità, ed una vita percettiva delle sensazioni riunite, sistematizzate e collegate ad una personalità.
+                </p>
+            </div>
+            <div>
+                <p>
+                    Possiamo, pur attribuendo a queste rappresentazioni un valore puramente simbolico, figurarci la nostra percezione cosciente come un’operazione in due tempi:
+                </p>
+                <list>
+                    <label>1)</label>
+                    <item>
+                        <p>
+                            Esistenza simultanea di un certo numero di sensazioni coscienti tattili, come T T' T'', muscolari come M M' M'', visive come V V' V'', auditive come A A' A''. 
+                            Queste sensazioni esistono simultaneamente e isolatamente le une dalle altre, come una quantità di piccole luci che si accendono in una sala buia. Questi fenomeni coscienti primitivi anteriori alla percezione, possono essere di specie differenti: può trattarsi di sensazioni, di ricordi, di immagini, e possono avere origini differenti: gli uni possono provenire da un’impressione attuale esercitata sui sensi, gli altri possono essere indotti, dal gioco automatico dell’associazione, a seguito di altri fenomeni.
+                        </p>
+                        <p>
+                            Ma, per non complicare un problema già assai complesso, non considereremo per ora, in questo capitolo, che il caso più semplice e supporremo intanto che tutti questi fenomeni elementari siano delle semplici sensazioni prodotte da una modificazione esteriore degli organi di senso.
+                        </p>
+                    </item>
+                    <label>2)</label>
+                    <item>
+                        <p>
+                            Un’operazione di sintesi attiva ed attuale attraverso cui queste sensazioni si collegano le une alle altre, si aggregano, si fondono, si confondono dentro uno stato unico a cui una sensazione principale dà la sua sfumatura, ma che non assomiglia probabilmente in maniera completa a nessuno degli elementi costituenti; questo fenomeno nuovo, è la percezione P.
+                        </p>
+                        <p>
+                            Siccome questa percezione si produce in ogni momento, a seguito di ciascun gruppo nuovo; siccome contiene tanto dei ricordi quanto delle sensazioni; essa forma l’idea che abbiamo della nostra personalità e d’ora in poi possiamo dire che qualcuno sente le immagini T T' T''M M' M'', etc.
+                        </p>
+                    </item>
+                </list>
+            </div>
+        </body>
+        <back>
+        </back>
+    </text>
+</TEI>
